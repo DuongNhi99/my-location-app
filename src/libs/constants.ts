@@ -1,7 +1,7 @@
 import { Category } from "./enums";
 import { GeoPosition, MarkerIconProps } from "./types";
 
-export const defaultPosition: GeoPosition = { lat: 59.3285, lon: 18.0782 };
+export const defaultPosition: GeoPosition = { lat: 10.762622, lon: 106.660172 };
 
 export const YOU_ARE_HERE = "You are here";
 
